@@ -1,11 +1,16 @@
 _repo: A-mechanical-and-critical-enquiry-into-the-nature-of-hermaphrodites_71304
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71304-h/images/cover.jpg
 creator:
   author:
     agent_name: Parsons, James
     gutenberg_agent_id: '56164'
     url: http://www.gutenberg.org/2009/agents/56164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71304#A-mechanical-and-critical-enquiry-into-the-nature-of-hermaphrodites
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71304'
